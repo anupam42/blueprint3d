@@ -25,7 +25,7 @@ $(document).ready(function() {
       "image" : "models/thumbnails/thumbnail_Church-Chair-oak-white_1024x1024.jpg",
       "model" : "models/js/gus-churchchair-whiteoak.js",
       "type" : "1"
-    }, 
+    },
     {
       "name" : "Red Chair",
       "image" : "models/thumbnails/thumbnail_tn-orange.png",
@@ -117,7 +117,7 @@ $(document).ready(function() {
       "type" : "1"
     },
     {
-      "name" : "Coffee Table - Wood",
+      "name" : "Coffee Table - Woods",
       "image" : "models/thumbnails/thumbnail_stockholm-coffee-table__0181245_PE332924_S4.JPG",
       "model" : "models/js/ik-stockholmcoffee-brown.js",
       "type" : "1"
@@ -135,7 +135,7 @@ $(document).ready(function() {
       "type" : "1"
     }, 
     {
-      "name" : "Dining table",
+      "name" : "Dining tables test",
       "image" : "models/thumbnails/thumbnail_Screen_Shot_2014-01-28_at_6.49.33_PM.png",
       "model" : "models/js/BlakeAvenuejoshuatreecheftable.js",
       "type" : "1"
